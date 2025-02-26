@@ -6,3 +6,5 @@ print("team member name: deniza")
 
 print("tatarstan super good")
 
+print("ninaaaaaaaaaaaaaaaa ❤️")
+print("Hi!")
